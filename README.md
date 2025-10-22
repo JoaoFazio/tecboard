@@ -38,8 +38,6 @@ Se você usa o VS Code, pode usar a extensão "Live Server" para abrir o projeto
 
 ## 🌐 Deploy (Demo ao Vivo)
 
-*(Se você hospedou este site em algum lugar, como GitHub Pages, Vercel ou Netlify, coloque o link aqui! Se não, pode apagar esta seção.)*
-
 Você pode ver a landing page em funcionamento [clicando aqui](https://link-para-seu-site.com).
 
 ## 👨‍💻 Autor
