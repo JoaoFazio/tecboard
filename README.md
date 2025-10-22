@@ -47,5 +47,5 @@ Você pode ver a landing page em funcionamento [clicando aqui](https://link-para
 Feito por João Gabriel.
 
 *(Opcional: Adicione links para suas redes)*
-* [LinkedIn](https://linkedin.com/in/seu-linkedin)
+* [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-gabriel-fazio-861186338/)
 * [GitHub](https://github.com/seu-usuario)
