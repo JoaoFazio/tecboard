@@ -38,7 +38,7 @@ Se você usa o VS Code, pode usar a extensão "Live Server" para abrir o projeto
 
 ## 🌐 Deploy (Demo ao Vivo)
 
-Você pode ver a landing page em funcionamento [clicando aqui](https://link-para-seu-site.com).
+Você pode ver a landing page em funcionamento [clicando aqui](https://joaofazio.github.io/tecboard/).
 
 ## 👨‍💻 Autor
 
