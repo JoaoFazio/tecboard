@@ -44,7 +44,7 @@ Você pode ver a landing page em funcionamento [clicando aqui](https://link-para
 
 ## 👨‍💻 Autor
 
-Feito por [Seu Nome Aqui].
+Feito por João Gabriel.
 
 *(Opcional: Adicione links para suas redes)*
 * [LinkedIn](https://linkedin.com/in/seu-linkedin)
