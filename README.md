@@ -4,7 +4,8 @@ Esta é uma landing page para o "Tecboard", um serviço (fictício) de monitoram
 
 ## 📸 Screenshot
 
-![Screenshot da Landing Page do Tecboard](assets/screenshot.png)
+<img width="1915" height="942" alt="lading-page" src="https://github.com/user-attachments/assets/00acd2dd-884b-4a47-a49b-4fdd9a7c5454" />
+
 
 ## 🎯 Objetivo
 
