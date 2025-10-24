@@ -11,17 +11,19 @@ Esta é uma landing page para o "Tecboard", um serviço (fictício) de monitoram
 
 O objetivo deste projeto foi praticar a criação de uma landing page moderna e visualmente atraente utilizando apenas HTML e CSS. O foco foi estruturar o conteúdo de forma semântica e aplicar conceitos de estilização, como layout, cores e tipografia. O design foi baseado em um layout do Figma.
 
-## ✨ Funcionalidades
+## 🛠️ Tecnologias e Conceitos Aplicados
 
-* **Header:** Contém o logo.
-* **Seção Hero:** A seção principal com o título "Fique de olho no que importa" e um botão de Call-to-Action (CTA).
-* **Visualização do Produto:** Imagens de smartphones mostrando o app em ação.
+Este projeto foi construído do zero para praticar não apenas o layout, mas também a "prontidão para produção" de uma página web.
 
-## 🛠️ Tecnologias Utilizadas
-
-* **HTML5:** Para a estrutura semântica da página.
-* **CSS3:** Para toda a estilização, cores, fontes e layout.
-
+* **HTML5 Semântico:** Uso correto de tags (`<header>`, `<main>`, `<section>`) para estrutura e acessibilidade.
+* **CSS3:** Estilização completa a partir de um design do Figma, focando em tipografia, cores e layout.
+* **Otimização para SEO (Search Engine Optimization):**
+    * Implementação de `meta description` e `title` otimizados para relevância em motores de busca.
+    * Inclusão da tag `google-site-verification` para provar a propriedade no Google Search Console.
+* **Otimização para Mídias Sociais (Open Graph Protocol):**
+    * Configuração completa de metadados `og:tags` (título, descrição, imagem, URL).
+    * Isso garante que, quando o link for compartilhado em redes como LinkedIn, WhatsApp ou X (Twitter), ele exiba um *card* rico e profissional, aumentando o engajamento.
+* **Favicon:** Adição de um favicon customizado (`.svg`) para a identidade visual na aba do navegador.
 ## 📂 Como Executar o Projeto
 
 Como é um projeto estático, você pode simplesmente:
